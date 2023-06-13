@@ -1,3 +1,3 @@
-from shoppingutils import cart
-from shoppingutils import discount
-from shoppingutils import inventory
+from shoppingutils.cart import *
+from shoppingutils.discount import *
+from shoppingutils.inventory import *
